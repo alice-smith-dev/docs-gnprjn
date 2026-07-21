@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-5vr9md.comeagua.com.br/sitemap.xml
